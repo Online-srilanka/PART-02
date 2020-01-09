@@ -1,0 +1,2 @@
+# e-voating
+we created online voting system for election commission of sri lanka. in this project we introduced register form . first of all , voters should register in register form. after that we send user name and password for registered voaters.  users will be able to vote in election date through the web site(www.e-voating.lk).  final,we show count of votes each recognized political parties have got
